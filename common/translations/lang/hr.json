@@ -230,7 +230,7 @@
     "OFFLINE_Step2_Label_2": "Vrijednost / Iznos za slanje ",
     "OFFLINE_Step2_Label_3": "Cijena gasa ",
     "OFFLINE_Step2_Label_3b": "Ovo je bilo prikazano u prvom koraku na vašem online računalu. ",
-    "OFFLINE_Step2_Label_4": "Gas Limit ",tak
+    "OFFLINE_Step2_Label_4": "Gas Limit ",
     "OFFLINE_Step2_Label_4b": "21000 je postavljeni gas limit. Kada šaljete ugovore ili dodajete '1 podatke, ovo možda mora biti drugačije. Sav nepotrošeni gas će vam biti vraćen. ",
     "OFFLINE_Step2_Label_5": "Nonce ",
     "OFFLINE_Step2_Label_5b": "This was displayed in Step 1 on your online computer. ",
