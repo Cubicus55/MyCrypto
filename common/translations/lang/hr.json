@@ -300,7 +300,7 @@
     "ERROR_5": "Molimo unesite ispravnu adresu. ",
     "ERROR_6": "Molimo unesite ispravnu lozinku. ",
     "ERROR_7": "Molimo unesite ispravne decimale     (Mora biti cijeli broj. Pokušajte 0-18.) ",
-    "ERROR_8": "Please enter a valid gas limit  (Must be integer. Try 21000-4000000.) ",
+    "ERROR_8": "Molimo unesite ispravnu gas limit  (Mora biti cijeli broj. Pokušajte 21000-4000000.) ",
     "ERROR_9": "Please enter a valid data value (Must be hex.) ",
     "ERROR_10": "Please enter a valid gas price. (Must be integer. Try 20 GWEI / 20000000000 WEI.) ",
     "ERROR_11": "Please enter a valid nonce      (Must be integer.) ",
