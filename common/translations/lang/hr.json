@@ -287,7 +287,7 @@
     "MSG_info3": "Ubacite specifični razlog ove poruke kako ne bi mogla biti ponovno upotrebljena za druge svrhe. ",
     "VIEWWALLET_Subtitle": "Ovo vam omogućava da preuzmete različite verzije privatnih ključeva i ponovo ispišete svoj papirnati novčanik. Možda želite ovo napraviti kako biste [ubaci svoj korisnički račun u Geth/Mist](https://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Ako želite provjeriti svoje stanje, mi vamm preporučamo da koristite blockchain explorer kao npr [etherscan.io](https://etherscan.io/). ",
     "VIEWWALLET_Subtitle_Short": "Ovo vam omogućava da preuzmete različite verzije privatnih ključeva i ponovo ispišete svoj papirnati novčanik.
-    "VIEWWALLET_SuccessMsg": "Success! Here are your wallet details. ",
+    "VIEWWALLET_SuccessMsg": "Uspješno obavljeno! Ovdje su detalji vašeg novčanika. ",
     "VIEWWALLET_ShowPrivKey": "(prikaz)",
     "VIEWWALLET_HidePrivKey": "(sakrij)",
     "CX_error_1": "YNemate niti jedan spremljeni novčanik. Kliknite na  [\"Add Wallet\"](/cx-wallet.html#add-wallet) da biste dodali jedan! ",
